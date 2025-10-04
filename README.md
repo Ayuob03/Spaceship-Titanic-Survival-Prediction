@@ -20,12 +20,7 @@ This project aims to predict whether passengers were transported to another dime
 ## Modeling
 - Baseline models: Logistic Regression, Random Forest, Gradient Boosting (XGBoost/LightGBM).  
 - Hyperparameter tuning using RandomizedSearchCV.  
-- Evaluation metrics: Accuracy, F1-score, ROC-AUC.  
-- Feature importance and interpretation using SHAP.
-
-## Results
-- Best model: [Your best model name]  
-- Key predictive features: Deck, Side, Age, Spending features, Group_Size.
+- Evaluation metrics:F1-score  
 
 ## How to Run
 1. Clone this repository.  
